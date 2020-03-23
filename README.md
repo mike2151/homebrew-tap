@@ -2,6 +2,7 @@
 
 Homebrew tap with formula for installing the following:
 - [config-server-ini](https://github.com/mike2151/config-server-ini)
+- [hackstart](https://github.com/mike2151/hackstart)
 
 **Add this tap**
 
