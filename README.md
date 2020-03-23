@@ -9,3 +9,4 @@ Homebrew tap with formula for installing the following:
 
 **Install**
 - config-server-ini: `brew install config-server-ini`
+- hackstart: `brew install hackstart`
